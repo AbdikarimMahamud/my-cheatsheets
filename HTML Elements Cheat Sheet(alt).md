@@ -1,5 +1,3 @@
-# HTML Elements Cheat Sheet
-
-Every HTML element, ordered from your first page to professional patterns. Open any card for attributes, an example and a live preview.
-
-Search elements
+version https://git-lfs.github.com/spec/v1
+oid sha256:9719340ebeb3317d89be6a98f797990cdb9c5329b93f20c7fea45a023fb21319
+size 181
